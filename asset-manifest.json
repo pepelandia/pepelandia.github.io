@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.96652012.css",
+    "main.css": "/static/css/main.fe84dd88.css",
     "main.js": "/static/js/main.ff209aa5.js",
     "static/media/Chomsky.otf": "/static/media/Chomsky.7c2ce2ca847ebba92ad0.otf",
     "static/media/Raton.cur": "/static/media/Raton.1fd708764ac557033d86.cur",
     "static/media/clik.cur": "/static/media/clik.3a378f1f98f266315dd5.cur",
     "index.html": "/index.html",
-    "main.96652012.css.map": "/static/css/main.96652012.css.map",
+    "main.fe84dd88.css.map": "/static/css/main.fe84dd88.css.map",
     "main.ff209aa5.js.map": "/static/js/main.ff209aa5.js.map"
   },
   "entrypoints": [
-    "static/css/main.96652012.css",
+    "static/css/main.fe84dd88.css",
     "static/js/main.ff209aa5.js"
   ]
 }
